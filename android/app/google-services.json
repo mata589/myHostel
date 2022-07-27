@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074731422299",
+    "project_id": "music-b71ae",
+    "storage_bucket": "music-b71ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074731422299:android:3712c5c8170b15f466a57e",
+        "android_client_info": {
+          "package_name": "com.example.vox_vibe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074731422299-e6h0ke4cosk6q47kqc176e220kt1b74r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeXOrk_6tYQM16wIJ15bAtIv3B0-y4VNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074731422299-e6h0ke4cosk6q47kqc176e220kt1b74r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
